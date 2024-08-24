@@ -35,7 +35,7 @@ jobs:
         name: Autorizacion.Middleware
         if-no-files-found: error
         retention-days: 7
-        path: /home/runner/work/SC-701-Paquetes/SC-701-Paquetes/AutorizacionMiddleware/*/*/*/*.nupkg
+        path: /home/runner/work/SC-701-Paquetes/nazihhoussain/AutorizacionMiddleware/*/*/*/*.nupkg
 
   release:
     runs-on: ubuntu-latest    
